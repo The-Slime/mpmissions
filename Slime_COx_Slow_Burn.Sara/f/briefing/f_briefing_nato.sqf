@@ -91,7 +91,7 @@ Push along the coastal highway and secure the marked towns so that the SLA is de
 
 _sit = player createDiaryRecord ["diary", ["Situation","
 <br/>
-With Bagango under our control, the SLA is effectively pinned into the western half of the island. They will probably be looking to make a getaway via the coastline; naturally we want to prevent this so that we can destroy them or force their surrender. To this end we have sent another unit to the nohtern coast while you have been deployed to the southern coast. If we control these coastlines, they will not be able to escape.
+With Bagango under our control, the SLA is effectively pinned into the western half of the island. They will probably be looking to make a getaway via the coastline; naturally we want to prevent this so that we can destroy them or force their surrender. To this end we have sent another unit to the northern coast while you have been deployed to the southern coast. If we control these coastlines, they will not be able to escape.
 <br/><br/>
 <font size='18'>ENEMY FORCES</font>
 <br/>
